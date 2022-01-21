@@ -1,0 +1,81 @@
+.search-box-background-color {
+    background-color: #F1F1F1;
+}
+.pucka-icon {
+    position: relative;
+    top: 6px;
+    right: 40px;
+}
+.bg-color {
+    background-color: #FEEAE9;
+}
+.price {
+    color: #FF136F;;
+}
+.buy-now-btn {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: #FFFFFF;
+    border-radius: 6px;
+    padding: 14px 20px;
+    border: none;
+}
+.watch-bg {
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+    color: #FFFFFF;
+}
+.shoe-bg {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: #FFFFFF;
+}
+.bag-bg {
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+    color: #FFFFFF;
+}
+.black-price {
+    color: #000000;
+}
+.black-btn {
+    width: 140px;
+    height: 52px;
+    background-color: #000000;
+    color: whitesmoke;
+    border: none;
+    padding: 14px 20px;
+    border-radius: 6px;
+}
+.form-section {
+    width: 75%;
+    margin: auto;
+    padding: 100px;
+
+}
+.form-bg {
+    background: #FFF2F1;
+}
+.form-data-parent {
+    display: flex;
+    justify-content: center;
+}
+.form-data {
+    margin: 0;
+
+}
+.form-data-para {
+    color: #707070;
+}
+input {
+    width: 300px;
+    background: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    outline: none;
+}
+.submit-btn {
+    width: 157px;
+    height: 44px;
+    background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
+    color: #FFF;
+    border: none;
+    border-radius: 5px;
+}
